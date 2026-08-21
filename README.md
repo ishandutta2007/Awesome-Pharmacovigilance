@@ -16,7 +16,7 @@ This repository tracks notable **SaaS/hosted platforms** and **open-source proje
 
 
 
-**Examples** include Oracle Argus Safety, ArisGlobal LifeSphere Safety, Veeva Vault Safety, Ennov Vigilance, SafetyEasy PV, SARUS PV, AB Cube, Celegence, EXTEDO, Pharmapod, Sarjen PV, IQVIA Vigilance Platform, Sparta Safety, and Drug Safety Solutions. Enterprise PV systems commonly cover case intake, data entry, MedDRA coding, medical review, regulatory reporting, signal management, and safety analytics. :contentReference[oaicite:0]{index=0}
+**Examples** include Oracle Argus Safety, ArisGlobal LifeSphere Safety, Veeva Vault Safety, Ennov Vigilance, SafetyEasy PV, SARUS PV, AB Cube, Celegence, EXTEDO, Pharmapod, Sarjen PV, IQVIA Vigilance Platform, Sparta Safety, and Drug Safety Solutions. Enterprise PV systems commonly cover case intake, data entry, MedDRA coding, medical review, regulatory reporting, signal management, and safety analytics.
 
 
 
@@ -50,137 +50,29 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Oracle Argus Safety](https://www.oracle.com/life-sciences/safety/)**  
-
-  Enterprise pharmacovigilance platform for safety case management, intake, regulatory reporting, analytics, and global drug-safety workflows. Oracle's current Safety One Argus offering combines case management and intake with cloud-based automation and analytics. :contentReference[oaicite:1]{index=1}
-
-
-
-- **[ArisGlobal LifeSphere Safety](https://www.arisglobal.com/lifesphere/safety/)**  
-
-  Cloud-native end-to-end pharmacovigilance platform covering case management, intake and triage, literature intelligence, reporting, signal management, analytics, and AI-powered safety automation. :contentReference[oaicite:2]{index=2}
-
-
-
-- **[Veeva Vault Safety](https://www.veeva.com/products/vault-safety/)**  
-
-  Cloud pharmacovigilance platform supporting adverse-event case processing, regulatory submissions, safety reporting, and integration with the broader Veeva Vault ecosystem.
-
-
-
-- **[Ennov Vigilance](https://www.ennov.com/solutions/pharmacovigilance/)**  
-
-  Pharmacovigilance platform supporting safety case processing, reporting, workflow management, compliance, and drug-safety operations.
-
-
-
-- **[Ennov PV-Works](https://www.ennov.com/)**  
-
-  Pharmacovigilance software supporting individual case safety reports, workflow, regulatory reporting, and safety-data management.
-
-
-
-- **[SafetyEasy PV](https://www.safetyeasy.com/)**  
-
-  Pharmacovigilance solution focused on safety case management, regulatory reporting, workflow, and compliance.
-
-
-
-- **[AB Cube](https://www.abcube.com/)**  
-
-  Life-sciences software provider associated with SafetyEasy and pharmacovigilance solutions for safety case management and regulatory processes.
-
-
-
-- **[EXTEDO](https://www.extedo.com/)**  
-
-  Regulatory and pharmacovigilance software provider offering solutions for safety reporting, regulatory information management, submissions, and compliance.
-
-
-
-- **[Pharmapod](https://www.pharmapodhq.com/)**  
-
-  Medication-safety and pharmacovigilance-oriented platform focused on incident reporting, medication safety, analysis, and risk reduction.
-
-
-
-- **[Sarjen PV](https://www.sarjen.com/)**  
-
-  Pharmacovigilance software portfolio supporting safety case processing, reporting, compliance, and drug-safety workflows.
-
-
-
-- **[PvEdge](https://www.sarjen.com/)**  
-
-  Sarjen's pharmacovigilance platform, formerly associated with PvNET, providing safety case management and pharmacovigilance workflows.
-
-
-
-- **[IQVIA Vigilance Platform](https://www.iqvia.com/solutions/technologies/safety-and-regulatory)**  
-
-  Safety technology ecosystem supporting pharmacovigilance case processing, safety analytics, regulatory reporting, signal management, and related services.
-
-
-
-- **[Sparta Systems](https://www.spartasystems.com/)**  
-
-  Life-sciences quality and safety technology provider with solutions and services supporting regulated safety and compliance processes.
-
-
-
-- **[Drug Safety Solutions](https://www.drugsafetysolutions.com/)**  
-
-  Drug-safety and pharmacovigilance technology/services provider supporting safety operations and regulated pharmacovigilance processes.
-
-
-
-- **[RxLogix PV Suite](https://www.rxlogix.com/)**  
-
-  Pharmacovigilance and drug-safety platform covering signal management, aggregate reporting, benefit-risk management, case processing, and safety analytics.
-
-
-
-- **[Clinevo Safety](https://www.clinevo.com/)**  
-
-  Pharmacovigilance software and services provider supporting safety case processing, reporting, and drug-safety operations.
-
-
-
-- **[Flex Databases](https://www.flexdatabases.com/)**  
-
-  Life-sciences software platform providing configurable systems for clinical research, pharmacovigilance, and related regulated workflows.
-
-
-
-- **[PVWorks](https://www.ennov.com/)**  
-
-  Ennov's pharmacovigilance solution supporting safety case processing, reporting, workflow, and regulatory compliance.
-
-
-
-- **[Oracle Life Sciences Empirica](https://www.oracle.com/life-sciences/pharmacovigilance/)**  
-
-  Safety signal-management and data-mining solution for detecting and investigating potential safety signals across large safety datasets. :contentReference[oaicite:3]{index=3}
-
-
-
-- **[ArisGlobal LifeSphere Advanced Intake](https://www.arisglobal.com/lifesphere/safety/)**  
-
-  Automated safety-data intake and triage capabilities designed to accelerate collection and processing of adverse-event information from diverse sources. :contentReference[oaicite:4]{index=4}
-
-
-
-- **[ArisGlobal LifeSphere Advanced Signals](https://www.arisglobal.com/lifesphere/safety/)**  
-
-  Signal and risk-management capabilities for identifying, assessing, and investigating potential safety signals using analytics and automation. :contentReference[oaicite:5]{index=5}
-
-
-
-- **[ArisGlobal LifeSphere Literature Intelligence](https://www.arisglobal.com/lifesphere/safety/)**  
-
-  Automated literature-monitoring and assessment capabilities designed to streamline pharmacovigilance literature surveillance. :contentReference[oaicite:6]{index=6}
+| Product | Focus & Capabilities | Starting Pricing | Free Tier / Free Trial Limits | Official Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **Oracle Argus Safety (Safety One Argus)** | Enterprise safety case management, automated intake, global regulatory reporting (E2B(R3)), and safety analytics. | ~$100,000 / year base enterprise subscription (~$899/month for dedicated sandbox/training instances) | 30-day evaluation trial via Oracle Cloud Free Tier ($300 cloud credits + guided demo); no permanent free plan | [Oracle Argus](https://www.oracle.com/life-sciences/safety/) |
+| **ArisGlobal LifeSphere Safety** | Cloud-native multi-tenant pharmacovigilance platform covering case intake, processing, signal management, and automated regulatory submissions. | ~$50,000 / year entry platform contract (~$1,200 / user / year) | 14-day guided proof-of-concept sandbox trial with pre-loaded demo datasets; no permanent free plan | [ArisGlobal](https://www.arisglobal.com/lifesphere/safety/) |
+| **Veeva Vault Safety** | Cloud pharmacovigilance solution unified with clinical and regulatory suites for real-time adverse event processing and submission. | ~$25,000 / year platform base fee + $500–$2,400 / user / year | **Free tier via Veeva SiteVault** (free for research sites up to 20 active studies); 30-day sandbox POC for Vault Safety | [Veeva Safety](https://www.veeva.com/products/vault-safety/) |
+| **Ennov Vigilance** | Pharmacovigilance suite for ICSR case processing, workflow management, compliance tracking, and electronic submissions. | ~$18,000 / year (or ~$1,500 / user / month entry SaaS tier) | 14-day guided proof-of-concept sandbox access on qualification; no permanent free plan | [Ennov Vigilance](https://www.ennov.com/solutions/pharmacovigilance/) |
+| **Ennov PV-Works (PVWorks)** | Comprehensive adverse event database management, electronic reporting, signal analysis, and regulatory compliance. | ~$24,000 / year entry package for mid-tier deployments | 14-day guided evaluation sandbox with standard ICSR workflows; no permanent free plan | [Ennov PV-Works](https://www.ennov.com/) |
+| **SafetyEasy PV (AB Cube)** | Multi-vigilance SaaS platform (drugs, cosmetics, medical devices) supporting ICSR management and regulatory gateway submissions. | ~$12,000 / year (~€1,000 / month) for small biotech safety portfolios | 14-day full-feature interactive test environment with sample dataset; no permanent free plan | [SafetyEasy PV](https://www.safetyeasy.com/) |
+| **AB Cube Platform** | Modular vigilance and regulatory database software for pharmacovigilance, cosmetovigilance, and device vigilance. | ~$15,000 / year entry multi-vigilance SaaS tier | 14-day interactive sandbox access with standard vigilance templates; no permanent free plan | [AB Cube](https://www.abcube.com/) |
+| **EXTEDO (EXTEDOpulse / Safety)** | Integrated regulatory information management (RIM) and safety reporting solution for compliance and eSubmissions. | ~$15,000 / year (~€1,200 / month) entry cloud subscription | 30-day pilot trial environment with limited validation datasets; no permanent free plan | [EXTEDO](https://www.extedo.com/) |
+| **Pharmapod** | Incident management and medication safety platform focused on continuous quality improvement and risk reduction in pharmacies. | $150 / year (Safety Assessment tier; $320/yr Essentials, $453/yr Professional) | 14-day trial access following 1-on-1 scheduled demo session; no permanent free plan | [Pharmapod](https://www.pharmapodhq.com/) |
+| **Sarjen PV** | Pharmacovigilance software portfolio for end-to-end adverse event case tracking, medical review, and regulatory reporting. | ~$10,000 / year base pharmacovigilance operations package | 14-day guided trial environment for qualified pharma/CRO teams; no permanent free plan | [Sarjen PV](https://www.sarjen.com/) |
+| **PvEdge (Sarjen)** | Scalable pharmacovigilance and drug safety database for ICSR case processing, MedDRA coding, and XML submission. | ~$12,000 / year starting subscription for entry CRO/pharma setups | 14-day test instance access with sample case intake workflows; no permanent free plan | [PvEdge](https://www.sarjen.com/) |
+| **IQVIA Vigilance Platform** | AI-enabled pharmacovigilance platform integrating adverse event intake, safety surveillance, and regulatory submission. | ~$75,000 / year base platform tier | 30-day proof-of-concept sandbox trial with sample FAERS/EudraVigilance datasets; no permanent free plan | [IQVIA Vigilance](https://www.iqvia.com/solutions/technologies/safety-and-regulatory) |
+| **Sparta Systems (TrackWise Digital Safety)** | Quality and safety management platform for complaint handling, adverse event reporting, and CAPA remediation. | ~$200 / user / month (~$20,000 / year entry SMB deployment) | 14-day interactive sandbox trial with pre-configured workflows; no permanent free plan | [Sparta Systems](https://www.spartasystems.com/) |
+| **Drug Safety Solutions** | Hosted pharmacovigilance software and managed services for adverse event capture, triage, and regulatory filing. | ~$8,000 / year entry hosted PV compliance package | 14-day guided feasibility test environment; no permanent free plan | [Drug Safety Solutions](https://www.drugsafetysolutions.com/) |
+| **RxLogix PV Suite** | Pharmacovigilance analytics, signal detection, benefit-risk management, and "Safety-in-a-Box" automated case processing. | ~$35,000 / year ("Safety-in-a-Box" flat annual entry package) | 30-day proof-of-value sandbox trial with mock signal detection data; no permanent free plan | [RxLogix](https://www.rxlogix.com/) |
+| **Clinevo Safety** | Cloud-hosted safety database and intake software for adverse event processing, automated XML generation, and regulatory submissions. | ~$9,600 / year (~$800 / month) for core safety database & intake | 14-day full-feature cloud sandbox trial + free setup consultation; no permanent free plan | [Clinevo](https://www.clinevo.com/) |
+| **Flex Databases (PV Module)** | Configurable pharmacovigilance and clinical trial management system (CTMS) for small-to-midsize CROs and biopharma. | ~$12,000 / year (~$1,000 / month) for small clinical / PV teams | 14-day trial environment access following introductory demo; no permanent free plan | [Flex Databases](https://www.flexdatabases.com/) |
+| **Oracle Life Sciences Empirica** | Safety signal-management, data-mining, and statistical analysis platform for detecting drug-safety signals across massive datasets. | ~$50,000 / year base signal management subscription | 30-day evaluation trial with sample signal detection datasets; no permanent free plan | [Oracle Empirica](https://www.oracle.com/life-sciences/pharmacovigilance/) |
+| **ArisGlobal LifeSphere Advanced Intake** | AI-driven safety data intake and triage system automating extraction from unstructured emails, PDFs, and medical literature. | ~$25,000 / year automated intake add-on tier | 14-day POC sandbox trial with document processing limit (up to 50 sample documents); no permanent free plan | [LifeSphere Intake](https://www.arisglobal.com/lifesphere/safety/) |
+| **ArisGlobal LifeSphere Advanced Signals** | Signal management and automated risk detection engine applying statistical algorithms to multi-source safety datasets. | ~$35,000 / year signal analytics tier | 14-day interactive trial on pre-loaded signal datasets; no permanent free plan | [LifeSphere Signals](https://www.arisglobal.com/lifesphere/safety/) |
+| **ArisGlobal LifeSphere Literature Intelligence** | AI-powered pharmacovigilance literature monitoring, filtering, and adverse-event identification system. | ~$20,000 / year literature monitoring AI tier | 14-day trial with surveillance cap of up to 5 journal feeds / target search queries; no permanent free plan | [LifeSphere Literature](https://www.arisglobal.com/lifesphere/safety/) |
 
 
 
@@ -190,13 +82,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - **[BioDEX](https://github.com/KarelDO/BioDEX)**  
 
-  Open biomedical adverse-drug-event extraction resource containing tens of thousands of biomedical publications and hundreds of thousands of associated drug-safety reports. It provides data and models useful for pharmacovigilance NLP research. :contentReference[oaicite:7]{index=7}
+  Open biomedical adverse-drug-event extraction resource containing tens of thousands of biomedical publications and hundreds of thousands of associated drug-safety reports. It provides data and models useful for pharmacovigilance NLP research.
 
 
 
 - **[OnSIDES](https://github.com/tatonetti-lab/onsides)**  
 
-  Open-source database of drug adverse events extracted from structured drug-product labels. The project provides millions of drug-ADE pairs and is particularly useful for adverse-event research, safety signal analysis, and pharmacovigilance NLP. :contentReference[oaicite:8]{index=8}
+  Open-source database of drug adverse events extracted from structured drug-product labels. The project provides millions of drug-ADE pairs and is particularly useful for adverse-event research, safety signal analysis, and pharmacovigilance NLP.
 
 
 
@@ -382,11 +274,11 @@ For population-level pharmacovigilance:
 
 
 
-The open-source ecosystem is currently much stronger around **data, NLP, observational research, and signal-detection research** than around a complete validated replacement for enterprise safety databases. BioDEX, for example, is specifically designed as a biomedical adverse-drug-event extraction resource, while OnSIDES provides a large adverse-drug-event knowledge base extracted from product labels. :contentReference[oaicite:9]{index=9}
+The open-source ecosystem is currently much stronger around **data, NLP, observational research, and signal-detection research** than around a complete validated replacement for enterprise safety databases. BioDEX, for example, is specifically designed as a biomedical adverse-drug-event extraction resource, while OnSIDES provides a large adverse-drug-event knowledge base extracted from product labels.
 
 
 
-Enterprise systems remain substantially more comprehensive for regulated end-to-end PV operations. Current platforms such as Oracle Safety One Argus and ArisGlobal LifeSphere Safety integrate case management, intake, reporting, analytics, signal management, automation, and regulatory workflows. :contentReference[oaicite:10]{index=10}
+Enterprise systems remain substantially more comprehensive for regulated end-to-end PV operations. Current platforms such as Oracle Safety One Argus and ArisGlobal LifeSphere Safety integrate case management, intake, reporting, analytics, signal management, automation, and regulatory workflows.
 
 
 
